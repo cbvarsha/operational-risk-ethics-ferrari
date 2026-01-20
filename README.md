@@ -1,2 +1,2 @@
 # operational-risk-ethics-ferrari
-Operational Risk &amp; Ethical Evaluation of Ferrari N.V. using Basel II and CFA Institute Code of Ethics.
+I’ve published an operational risk & ethics analysis of Ferrari N.V. on GitHub, applying Basel II and CFA frameworks with ESG focus.
